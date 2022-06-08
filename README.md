@@ -1,10 +1,6 @@
-## Всем привет, меня зовут Игорь 👋
+## Начинающий Фронтенд Разработчик
 ![](https://komarev.com/ghpvc/?username=Speedewow)
 ### 🎯 Цели:
-- ~~🏀 Выиграть первенство города по баскетболу~~
-- ~~🏢 Поступить в ВУЗ~~
-- ~~🏆 Стать лучшей группой~~
-- ~~🌍 Посетить 10 стран~~
 - ~~🎓 Окончить ВУЗ~~
 - ~~🐈 Завести кота (двух)~~
 - ~~💬 Увидеть "Hello, world"~~
@@ -16,6 +12,7 @@
 
 #### Как видите, главные цели мне еще предстоит выполнить, и тут мне понадобится ваша помощь!
 #
+
 <details>
 <summary><h3>📝 Немного о себе:</h3></summary>
 <p>Меня зовут Игорь, будем знакомы. Моя жизнь, как и у большинства людей, началась в 1998 году. Школа, взросление, первая любовь, азарт, друзья, беззаботное время, университет. Все это, как ни странно, у меня было, но чего-то не хватало! Все изменилось, когда я познакомился с Фронтэндом, но до этого, небольшая предыстория.</p>
@@ -23,14 +20,6 @@
 <p>И вот, я решился, оценил рынок, начал искать курсы. Мой выбор пал на Фронтенд. И с того момента, я ни секунды не жалел о своем выборе. Мне всегда нравилось что-то создавать, а во Фронтенде, ты не просто создаешь, ты еще и видишь результат своего труда, практически моментально. Конечно, от эксперта в области Фронтенд-разработки мне, пока, далеко. Но изо дня в день я прикладываю максимум усилий для совершенствования своих навыков.</p>
 </details>
 
-#
-### Connect with me:
-
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/uropexxaa)
 #
 ### :hammer_and_wrench: Мой стэк :
 <div>
@@ -43,6 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="webpack" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+
+#
+### :globe_with_meridians: Ссылки для связи со мной:
+
+[<img align="left" alt="VladKalachev | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://web.telegram.org/z/@Speedew0w)
+[<img align="left" alt="VladKalachev | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/igorgaldovich)
+[<img align="left" alt="VladKalachev | VK" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/uropexxaa)
+<br />
+<br />
 
 #
 ### :fire: Чуть-чуть статистики :
