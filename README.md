@@ -36,15 +36,17 @@
 #
 ### :globe_with_meridians: Ссылки для связи со мной:
 
-[<img align="left" alt="VladKalachev | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://web.telegram.org/z/@Speedew0w)
-[<img align="left" alt="VladKalachev | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/igorgaldovich)
-[<img align="left" alt="VladKalachev | VK" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/uropexxaa)
+[<img align="left" alt="Igor | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://web.telegram.org/z/@Speedew0w)
+[<img align="left" alt="Igor | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/igorgaldovich)
+[<img align="left" alt="Igor | VK" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/uropexxaa)
 <br />
 <br />
 
 #
 ### :fire: Чуть-чуть статистики :
 <div>
+  [![codewars](https://www.codewars.com/users/Speedewow/badges/large)]
+  (https://www.codewars.com/users/Speedewow)   
 <a href="https://github-readme-stats.vercel.app/api?username=Speedewow&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Speedewow&hide=contribs&show_icons=true" />
 </a>
