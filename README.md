@@ -1,4 +1,4 @@
-## Начинающий Фронтенд Разработчик
+##  Фронтенд Разработчик
 ![](https://komarev.com/ghpvc/?username=Speedewow)
 ### 🎯 Цели:
 - ~~🎓 Окончить ВУЗ~~
@@ -7,10 +7,9 @@
 - ~~❤️ Влюбиться в Frontend~~
 - ~~💩 Сверстать первый сайт~~
 - ~~🙉 Понять ООП~~
-- 😎 Попасть в IT компанию
+- ~~😎 Попасть в IT компанию~~
 - 👽 Стать гуру Фронтэнда
 
-#### Как видите, главные цели мне еще предстоит выполнить, и тут мне понадобится ваша помощь!
 #
 
 <details>
@@ -28,15 +27,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
 </div>
 
 #
 ### :globe_with_meridians: Ссылки для связи со мной:
 
-[<img align="left" alt="Igor | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://web.telegram.org/z/@Speedew0w)
+[<img align="left" alt="Igor | VK" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />](https://join.skype.com/invite/IYOGnxQ65Msh)
 [<img align="left" alt="Igor | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/igorgaldovich)
 [<img align="left" alt="Igor | VK" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/uropexxaa)
 <br />
